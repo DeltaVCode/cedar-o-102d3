@@ -60,7 +60,7 @@ Test and confirm the computer is working properly.
 ## Submission Instructions
 
 1. Name the document according to your course code and assignment.
-   - i.e. `c-rapids-ops-102n3: Reading 01` or `c-rapis-ops-102d3: Lab 04`.
+   - i.e. `c-rapids-ops-102n3: Reading 01` or `c-rapids-ops-102d3: Lab 04`.
 1. Add your name & date at the top of the Google Doc.
 1. Share your Google Doc so that "Anyone with the link can view".
 1. Paste the link to your Google Doc in the discussion field below and share an observation from your experience in this lab including how long this lab took to complete.
