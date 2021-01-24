@@ -18,8 +18,6 @@ Welcome to Ops 102. Today, we'll be unlocking the mystery of how computers work,
 
 ## Today's Outline
 
-<!-- To Be Completed By Instructor -->
-
 1. Welcome and Introductions
 1. Course Overview
 1. How do computers work

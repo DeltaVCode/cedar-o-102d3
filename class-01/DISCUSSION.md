@@ -18,7 +18,7 @@ Summarize what you learned in a new Google Doc, that will hold your reading note
 ## Submission Instructions
 
 1. Name the document according to your course code. This document will store all your readings for this class.
-   - i.e. `seattle-ops-102n42: Reading Notes`
+   - i.e. `c-rapids-ops-102n3: Reading Notes`
 1. Add your name & date at the top of the Google Doc.
 1. Share your Google Doc so that "Anyone with the link can view".
 1. Add your reading notes to the Google Doc.
